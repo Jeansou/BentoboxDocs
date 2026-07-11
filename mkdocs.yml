@@ -1,4 +1,5 @@
 site_name: BentoBox World
+baseurl: https://git.trees.blue/BentoboxDocs/
 copyright: "© Copyright 2017-2023 Tastybento, Poslovitch and the BentoBoxWorld community (CC-BY 4.0)."
 repo_url: https://github.com/BentoBoxWorld/BentoBox
 repo_name: BentoBoxWorld/BentoBox
